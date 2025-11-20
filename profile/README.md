@@ -8,7 +8,3 @@
 [![npm](https://img.shields.io/npm/v/vasille-web?style=flat-square)](https://www.npmjs.com/package/vasille-web)
 [![npm](https://img.shields.io/npm/v/vasille-web-cli?style=flat-square)](https://www.npmjs.com/package/vasille-web-cli)
 [![npm](https://img.shields.io/npm/v/create-vasille?style=flat-square)](https://www.npmjs.com/package/create-vasille)
-
-<hr>
-
-**Made in Moldova** 🇲🇩
