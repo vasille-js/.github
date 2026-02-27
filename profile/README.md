@@ -1,6 +1,6 @@
 # SteelFrameKit (also known as Vasille.js)
 
-![Vasille.js logo](![Vasille.js logo](https://raw.githubusercontent.com/vasille-js/vasille-js/refs/heads/v5/doc/img/logo.png)
+(![Vasille.js logo](https://raw.githubusercontent.com/vasille-js/vasille-js/refs/heads/v5/doc/img/logo.png)
 
 `Steel Frame` is a web development kit, which is developed to provide the best `developer experience` ever. **Our goal is to keep is as simple as possible.** Developing web applications using SteelFramekit must be *as fast as possible*.
 
