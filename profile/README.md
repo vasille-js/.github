@@ -6,6 +6,4 @@ AI can produce code. Organizations still have to produce software. Agentic devel
 
 [![npm](https://img.shields.io/npm/v/vasille?style=flat-square)](https://www.npmjs.com/package/vasille)
 [![npm](https://img.shields.io/npm/v/vasille-web?style=flat-square)](https://www.npmjs.com/package/vasille-web)
-[![npm](https://img.shields.io/npm/v/vasille-web-cli?style=flat-square)](https://www.npmjs.com/package/vasille-web-cli)
 [![npm](https://img.shields.io/npm/v/steel-frame?style=flat-square)](https://www.npmjs.com/package/steel-frame)
-[![npm](https://img.shields.io/npm/v/create-steel-frame?style=flat-square)](https://www.npmjs.com/package/create-steel-frame)
