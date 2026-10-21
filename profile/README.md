@@ -2,7 +2,7 @@
 
 ![Vasille.js logo](https://raw.githubusercontent.com/vasille-js/vasille-js/refs/heads/v5/doc/img/logo.png)
 
-`Steel Frame` is a web development kit, which is developed to provide the best `developer experience` ever. **Our goal is to keep is as simple as possible.** Developing web applications using SteelFramekit must be *as fast as possible*.
+AI can produce code. Organizations still have to produce software. Agentic development is changing how software gets made, but it hasn't changed what it cost to be wrong, `Steel Frame` do it.
 
 [![npm](https://img.shields.io/npm/v/vasille?style=flat-square)](https://www.npmjs.com/package/vasille)
 [![npm](https://img.shields.io/npm/v/vasille-web?style=flat-square)](https://www.npmjs.com/package/vasille-web)
